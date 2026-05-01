@@ -24,7 +24,8 @@ Data Prep: Excel (Cleaning and categorical encoding).
 Statistical Visualization: Box-and-Whisker Plots, Stacked Histograms, Scatter Plot Matrices.
 
 Live interactive dashbaord(https://public.tableau.com/app/profile/tyrese.dieudonne/viz/Heart_Failure_Dashboard_17741476087670/HeartFailureSurvivalAnalysisDashboardExploringclinicalindicatorsanddemographicriskfactorsinfluencingpatientoutcomes) 
-<img width="1920" height="1080" alt="Screenshot 2026-04-27 at 3 08 06 AM" src="https://github.com/user-attachments/assets/4b22eb50-7ac4-4f2a-840a-bbbc5b040f98" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-01 at 1 13 35 PM" src="https://github.com/user-attachments/assets/3d29b3be-816d-43cd-89e7-eeb4151f2562" />
+
 
 Machine Learning Integration: Predictive Modeling
 While the Tableau dashboard provides a visual diagnostic tool, I implemented a Python-based machine learning pipeline to automate risk assessment.
