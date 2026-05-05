@@ -23,8 +23,9 @@ Data Prep: Excel (Cleaning and categorical encoding).
 
 Statistical Visualization: Box-and-Whisker Plots, Stacked Histograms, Scatter Plot Matrices.
 
-Live interactive dashbaord(https://public.tableau.com/app/profile/tyrese.dieudonne/viz/Heart_Failure_Dashboard_17741476087670/HeartFailureSurvivalAnalysisDashboardExploringclinicalindicatorsanddemographicriskfactorsinfluencingpatientoutcomes) 
-<img width="1920" height="1080" alt="Screenshot 2026-05-01 at 1 13 35 PM" src="https://github.com/user-attachments/assets/3d29b3be-816d-43cd-89e7-eeb4151f2562" />
+Live interactive dashboard: https://public.tableau.com/app/profile/tyrese.dieudonne/viz/HeartFailurePatientSurvivalAnalysis/Dashboard1
+<img width="1920" height="1080" alt="Screenshot 2026-05-05 at 4 35 15 AM" src="https://github.com/user-attachments/assets/01004c63-d889-44b2-9391-9ed7dae3565e" />
+
 
 
 Machine Learning Integration: Predictive Modeling
